@@ -9,4 +9,10 @@ public class Entry {
             System.out.println("Welcome");
         }
     }
+    
+      private static void editData(String str) {
+        if(Constant.DATA_TYPE.equalsIgnoreCase(str)) {
+            System.out.println("Welcome User");
+        }
+   
 }
