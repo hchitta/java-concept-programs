@@ -5,7 +5,7 @@ public class Entry {
     }
 
     private static void getData(String str) {
-        if("Java Concepts".equalsIgnoreCase(str)) {
+        if(Constant.DATA_TYPE.equalsIgnoreCase(str)) {
             System.out.println("Welcome");
         }
     }
