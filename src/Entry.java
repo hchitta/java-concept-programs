@@ -11,8 +11,9 @@ public class Entry {
     }
     
       private static void editData(String str) {
-        if(Constant.DATA_TYPE.equalsIgnoreCase(str)) {
-            System.out.println("Welcome User");
-        }
+          if (Constant.DATA_TYPE.equalsIgnoreCase(str)) {
+              System.out.println("Welcome User");
+          }
+      }
    
 }
