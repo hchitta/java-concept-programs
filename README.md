@@ -17,3 +17,11 @@ derived/child/sub/extended class
 instantiate a class using Java 8 method references?
 
 ClassName::new
+
+-> 
+Different ways of Object creation
+1. using new keyword
+2. using newInstance method of class
+3. using clone method
+4. using deserialization
+5. using newInstance method of Constructor class
